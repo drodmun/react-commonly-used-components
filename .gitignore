@@ -1,12 +1,27 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# yarn
+yarn.lock
+yarn-error.log
 
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
+# npm
+.npmrc
 
 # testing
 /coverage
+# front end generic 
+*target*
+*node_modules*
+package-lock.json
+dist/
+
+# VSCode
+.vs/
+.vscode/
+.chrome/
+.history/
 
 # production
 /build
