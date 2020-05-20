@@ -1,5 +1,9 @@
 # Commonly (personally) used components, to separate of main code thanks to bit.dev
 
+## [go-up-fab](src\components\goUpFAB\goUpFAB.tsx):
+
+FAB button that appears when scrolled down, and on click goes up smoothly, react hooks with typescript [check in bit](https://bit.dev/drodmun/react_material_ts_components/go-up-fab)
+
 ## ↓ Standard README from create-react-app ↓
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
